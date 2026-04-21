@@ -19,6 +19,10 @@ Simple exploratory data analysis of a Spotify dataset to understand how audio fe
 ##  Goal
 Explore how features like energy and danceability vary across genres and relate to popularity.
 
+## Data
+Dataset from Kaggle:  
+https://www.kaggle.com/code/yashdev01/spotify-data-analysis
+
 ## Run
 ```bash
 pip install pandas matplotlib seaborn
