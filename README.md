@@ -21,7 +21,7 @@ Explore how features like energy and danceability vary across genres and relate 
 
 ## Data
 Dataset from Kaggle:  
-https://www.kaggle.com/code/yashdev01/spotify-data-analysis
+https://www.kaggle.com/datasets/yashdev01/spotify-tracks-dataset
 
 ## Run
 ```bash
